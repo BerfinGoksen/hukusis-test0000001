@@ -1,0 +1,188 @@
+{
+  "ModelSwitch": {
+    "title": "Modeli Değiştir"
+  },
+  "agentDefaultMessage": "Merhaba, ben **{{name}}**. Hemen sohbet etmeye başlayabilir ya da [Çalışan Ayarları]({{url}}) sayfasından bilgileri güncelleyebilirsin.",
+  "agentDefaultMessageWithSystemRole": "Selam, ben **{{name}}**, {{systemRole}}. Hadi hemen konuşmaya başlayalım!",
+  "agentDefaultMessageWithoutEdit": "Merhaba, ben **{{name}}**. Sohbete hemen başlayabiliriz!",
+  "agents": "Çalışanlar",
+  "artifact": {
+    "generating": "Oluşturuluyor",
+    "thinking": "Düşünüyorum",
+    "thought": "Düşünce Süreci",
+    "unknownTitle": "Adsız Eser"
+  },
+  "backToBottom": "En Alta Dön",
+  "chatList": {
+    "longMessageDetail": "Detayları Gör"
+  },
+  "clearCurrentMessages": "Mevcut mesajları temizle",
+  "confirmClearCurrentMessages": "Mesajları temizlemek üzeresin. Bu işlem geri alınamaz, emin misin?",
+  "confirmRemoveSessionItemAlert": "Bu çalışanı silmek üzeresin. Bu işlem geri alınamaz, emin misin?",
+  "confirmRemoveSessionSuccess": "Oturum başarıyla silindi",
+  "defaultAgent": "VENI AI - Tüm Konular Entüziyastı",
+  "defaultList": "Varsayılan Liste",
+  "defaultSession": "Varsayılan Oturum",
+  "duplicateSession": {
+    "loading": "Kopyalanıyor...",
+    "success": "Kopyalama Tamam",
+    "title": "{{title}} Kopyası"
+  },
+  "duplicateTitle": "{{title}} Kopya",
+  "emptyAgent": "Henüz çalışan yok",
+  "historyRange": "Geçmiş Aralığı",
+  "inbox": {
+    "desc": "Bir beyin fırtınası başlat ya da yaratıcı düşüncelere dal. Sanal çalışanınız her konuda size yardımcı olmak için hazır!",
+    "title": "Sohbet Başlat"
+  },
+  "input": {
+    "addAi": "AI Mesajı Ekle",
+    "addUser": "Kullanıcı Mesajı Ekle",
+    "more": "Daha Fazla",
+    "send": "Gönder",
+    "sendWithCmdEnter": "{{meta}} + Enter ile Gönder",
+    "sendWithEnter": "Enter ile Gönder",
+    "stop": "Durdur",
+    "warp": "Satır Atlama"
+  },
+  "knowledgeBase": {
+    "all": "Tüm İçerik",
+    "allFiles": "Tüm Dosyalar",
+    "allKnowledgeBases": "Tüm Bilgi Tabanları",
+    "disabled": "Şu anki mod bilgi tabanı sohbetini desteklemiyor. Eğer kullanmak isterseniz, sunucu veritabanına geçin ya da {{cloud}} hizmetini deneyin.",
+    "library": {
+      "action": {
+        "add": "Ekle",
+        "detail": "Detay",
+        "remove": "Kaldır"
+      },
+      "title": "Dosya/Bilgi Tabanı"
+    },
+    "relativeFilesOrKnowledgeBases": "İlgili Dosya/Bilgi Tabanları",
+    "title": "Bilgi Tabanı",
+    "uploadGuide": "Yüklenen dosyalar, 'Bilgi Tabanı' altında görüntülenebilir.",
+    "viewMore": "Daha Fazla Göster"
+  },
+  "messageAction": {
+    "delAndRegenerate": "Sil ve Yeniden Oluştur",
+    "regenerate": "Yeniden Oluştur"
+  },
+  "newAgent": "Yeni Çalışan",
+  "pin": "Sabitle",
+  "pinOff": "Sabitliği Kaldır",
+  "rag": {
+    "referenceChunks": "Referans Parçaları",
+    "userQuery": {
+      "actions": {
+        "delete": "Sorguyu Sil",
+        "regenerate": "Sorguyu Yeniden Oluştur"
+      }
+    }
+  },
+  "regenerate": "Yeniden Oluştur",
+  "roleAndArchive": "Rol ve Arşiv",
+  "searchAgentPlaceholder": "Çalışanı Ara...",
+  "sendPlaceholder": "Mesajınızı buraya yazın...",
+  "sessionGroup": {
+    "config": "Grup Yönetimi",
+    "confirmRemoveGroupAlert": "Bu grup silinecek. Silindikten sonra grup çalışanları varsayılan listeye taşınacak. Emin misiniz?",
+    "createAgentSuccess": "Çalışan başarıyla oluşturuldu",
+    "createGroup": "Yeni Grup Ekle",
+    "createSuccess": "Başarıyla Oluşturuldu",
+    "creatingAgent": "Çalışan oluşturuluyor...",
+    "inputPlaceholder": "Grup adını girin...",
+    "moveGroup": "Gruba Taşı",
+    "newGroup": "Yeni Grup",
+    "rename": "Grup Adını Değiştir",
+    "renameSuccess": "Ad Başarıyla Değiştirildi",
+    "sortSuccess": "Sıralama Başarılı",
+    "sorting": "Grup sıralaması güncelleniyor...",
+    "tooLong": "Grup adı 1-20 karakter olmalı"
+  },
+  "shareModal": {
+    "download": "Görseli İndir",
+    "imageType": "Format",
+    "screenshot": "Ekran Görüntüsü",
+    "settings": "Ayarlar",
+    "shareToShareGPT": "ShareGPT Linki Oluştur",
+    "withBackground": "Arka Planlı",
+    "withFooter": "Alt Bilgi",
+    "withPluginInfo": "Eklenti Bilgileri",
+    "withSystemRole": "Çalışan Rolü"
+  },
+  "stt": {
+    "action": "Sesle Giriş",
+    "loading": "Tanımlanıyor...",
+    "prettifying": "Düzenleniyor..."
+  },
+  "temp": "Geçici",
+  "tokenDetails": {
+    "chats": "Sohbetler",
+    "rest": "Kalan",
+    "systemRole": "Sistem Rolü",
+    "title": "Bağlam Detayları",
+    "tools": "Araçlar",
+    "total": "Toplam",
+    "used": "Kullanılan"
+  },
+  "tokenTag": {
+    "overload": "Limit Aşıldı",
+    "remained": "Kalan",
+    "used": "Kullanılan"
+  },
+  "topic": {
+    "actions": {
+      "autoRename": "Akıllı Yeniden Adlandır",
+      "duplicate": "Kopya Oluştur",
+      "export": "Konuyu Dışa Aktar"
+    },
+    "checkOpenNewTopic": "Yeni bir konu açılsın mı?",
+    "checkSaveCurrentMessages": "Mevcut sohbeti konu olarak kaydetmek istiyor musunuz?",
+    "confirmRemoveAll": "Tüm konuları silmek üzeresiniz. Bu işlem geri alınamaz, emin misiniz?",
+    "confirmRemoveTopic": "Bu konuyu silmek üzeresiniz. Bu işlem geri alınamaz, emin misiniz?",
+    "confirmRemoveUnstarred": "Yıldızlanmamış konuları silmek üzeresiniz. Bu işlem geri alınamaz, emin misiniz?",
+    "defaultTitle": "Konu",
+    "duplicateLoading": "Konu kopyalanıyor...",
+    "duplicateSuccess": "Konu başarıyla kopyalandı",
+    "guide": {
+      "desc": "Mevcut oturumu geçmiş konu olarak kaydedebilir ve yeni bir oturum başlatabilirsiniz. Sol taraftaki düğmeyi kullanın.",
+      "title": "Konu Listesi"
+    },
+    "openNewTopic": "Yeni Konu",
+    "removeAll": "Tüm Konuları Sil",
+    "removeUnstarred": "Yıldızlanmamış Konuları Sil",
+    "saveCurrentMessages": "Mevcut oturumu konu olarak kaydet",
+    "searchPlaceholder": "Konuları Ara...",
+    "title": "Konular"
+  },
+  "translate": {
+    "action": "Çevir",
+    "clear": "Çeviriyi Temizle"
+  },
+  "tts": {
+    "action": "Metni Seslendir",
+    "clear": "Konuşmayı Temizle"
+  },
+  "updateAgent": "Çalışan Bilgilerini Güncelle",
+  "upload": {
+    "action": {
+      "fileUpload": "Dosya Yükle",
+      "folderUpload": "Klasör Yükle",
+      "imageDisabled": "Mevcut model görsel tanımayı desteklemiyor. Lütfen modeli değiştirin ve tekrar deneyin.",
+      "imageUpload": "Görüntü Yükle",
+      "tooltip": "Yükle"
+    },
+    "clientMode": {
+      "actionFiletip": "Dosya Yükle",
+      "actionTooltip": "Yükle",
+      "disabled": "Bu model görsel ve dosya tanımayı desteklemiyor. Lütfen modeli değiştirin ve tekrar deneyin."
+    },
+    "preview": {
+      "prepareTasks": "Parçalar Hazırlanıyor...",
+      "status": {
+        "pending": "Yükleme Hazırlanıyor...",
+        "processing": "Dosya İşleniyor..."
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "addAgent": "Çalışan Ekle",
+  "addAgentAndConverse": "Çalışan Ekle ve Konuşma Başlat",
+  "addAgentSuccess": "Ekleme Başarılı",
+  "guide": {
+    "func1": {
+      "desc1": "Sohbet penceresinin sağ üst köşesindeki ayarlar simgesine tıklayarak çalışana göndermek istediğiniz ayarlar sayfasına girin.",
+      "desc2": "Sağ üst köşedeki 'Çalışan Pazarına Gönder' düğmesine tıklayın.",
+      "tag": "Method 1",
+      "title": "InvenireChat üzerinden Gönder"
+    },
+    "func2": {
+      "button": "Github Çalışan Repositorisine Git",
+      "desc": "Çalışanı dizine eklemek istiyorsanız, plugins dizininde agent-template.json veya agent-template-full.json kullanarak bir giriş oluşturun, kısa bir açıklama ve uygun etiketler yazın, ardından bir çekme isteği oluşturun.",
+      "tag": "Method 2",
+      "title": "Github üzerinden Gönder"
+    }
+  },
+  "search": {
+    "placeholder": "Çalışan adı, açıklama veya anahtar kelimeleri ara..."
+  },
+  "sidebar": {
+    "comment": "Yorumlar",
+    "prompt": "Prompts",
+    "title": "Çalışan Detay"
+  },
+  "submitAgent": "Çalışan Ekle",
+  "title": {
+    "allAgents": "Tüm Çalışan",
+    "recentSubmits": "Son Eklenenler"
+  }
+}

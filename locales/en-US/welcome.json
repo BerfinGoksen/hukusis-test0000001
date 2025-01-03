@@ -1,0 +1,50 @@
+{
+  "button": {
+    "import": "İçe Aktar",
+    "market": "INVENIRE'i Ziyaret Et",
+    "start": "Keşfetmeye ve Sohbete Başla"
+  },
+  "guide": {
+    "agents": {
+      "replaceBtn": "Başka bir grup seç",
+      "title": "Yeni Çalışan Önerileri:"
+    },
+    "defaultMessage": "Ben sizin akıllı çalışanınız **{{appName}}**. Size nasıl yardımcı olabilirim?\nDaha profesyonel ya da kişisel bir çalışan isterseniz, `+` butonuna tıklayarak kolayca oluşturabilirsiniz.",
+    "defaultMessageWithoutCreate": "Ben sizin akıllı çalışanınız **{{appName}}**. Şu anda size nasıl yardımcı olabilirim?",
+    "qa": {
+      "q01": "InvenireHub nedir?",
+      "q02": "{{appName}} nedir?",
+      "q03": "{{appName}} topluluk desteği sunuyor mu?",
+      "q04": "{{appName}} hangi özellikleri sunuyor?",
+      "q05": "{{appName}} nasıl kurulur ve kullanılır?",
+      "q06": "{{appName}} fiyatlandırması nasıl?",
+      "q07": "{{appName}} ücretsiz mi?",
+      "q08": "Bulut hizmeti var mı?",
+      "q09": "Yerel dil modellerini destekliyor mu?",
+      "q10": "Görüntü tanıma ve oluşturma özellikleri var mı?",
+      "q11": "Ses sentezi ve tanıma destekliyor mu?",
+      "q12": "Eklenti sistemi var mı?",
+      "q13": "GPT modelleri için kendi pazarımız var mı?",
+      "q14": "Birden fazla AI sağlayıcısını destekliyor mu?",
+      "q15": "Bir sorunla karşılaşırsam ne yapmalıyım?"
+    },
+    "questions": {
+      "moreBtn": "Daha Fazla Bilgi",
+      "title": "Sıkça Sorulan Sorular:"
+    },
+    "welcome": {
+      "afternoon": "İyi akşamlar",
+      "morning": "Günaydın",
+      "night": "İyi geceler",
+      "noon": "Tünaydın"
+    }
+  },
+  "header": "Hoş Geldiniz",
+  "pickAgent": "Ya da aşağıdaki çalışanlardan birini seçin",
+  "skip": "Geç",
+  "slogan": {
+    "desc1": "Türkiye hukuk sistemine entegre, uzman bir rehber olarak, profesyonellerden bireylere kadar tüm kullanıcıların hukuki ihtiyaçlarını karşılamak üzere kapsamlı bir bilgi kaynağı sunuyor.",
+    "desc2": "İlk çalışanınızı oluşturun ve hemen başlayalım!",
+    "title": "Yapay zekanın sınırlarını zorlayın"
+  }
+}
